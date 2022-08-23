@@ -1,3 +1,3 @@
 ### Demo
 
-https://code-sync.codersgyan.com/
+https://jatin-realtime-code-editor.herokuapp.com/
